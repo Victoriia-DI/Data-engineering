@@ -1,3 +1,3 @@
-# Data-engineering
-Homework
-Module 1
+# Data-engineering DE-101
+The repo is for my projects. 
+
